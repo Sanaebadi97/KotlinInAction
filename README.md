@@ -15,4 +15,4 @@ about the technology
 Developers want to get work don- and the less hassle, the tter. Coding with Kotlin means less hassle. The Kotlin programming language offers an expressive syntax, a strongntuitive type system,nd great tooling support along with seamless interoperability with existing Java code, libraries, and frameworks. Kotlin cabe compiled to Java bytecode, so ycan use it everywhere Java is used, including Android. Anwith an effit ciler ana small andard library, Kotlin impos virally no runtime overhead.
 
 about the bo
-Kotlin in Action teaches you to use thetl langge for produionualitypplicat. Wttefor expienced va depers,s examplrich bkبرو دoes further th most language books, covering interestintopiclbug Daral language syntax. Tutrare  Kotn delopers you n trust thaen arly
+Kotlin in Action teaches you to use thetl langge for produionualipplicat. Wttefor expienced va depers,s examplrich bkبرو دoes further th most language books, covering interestintopiclbug Daral language syntax. Tutrare  Kotn delopers you n trust thaen arly
