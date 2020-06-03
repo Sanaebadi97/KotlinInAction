@@ -17,4 +17,4 @@ Kotlin in Action teaches you to use the Kotlin language for production-quality a
 
 
 
-Kotlin in Action guidesxperienced Java devepalane for produionualipare  Kn delopers you n tst a arl
+Kotlin in Action guidesxperienced Java devepalane for produionualipare  Kn delopers you rl
