@@ -17,7 +17,7 @@ Kotlin in Action teaches you to use the Kotlin language for production-quality a
 
 
 
-Kotlin in Action guidesxperienced Java devepers fromhe language basics of Kotlin all the way through building applications to run on the JVM and Android devices
+Kotlin in Action guidesxperienced Java deveperfromhe language basics of Kotlin all the way through building applications to run on the JVM and Android devices
 about the technolo
 Developers want to get work don- and the less hassle, the tter. Coding with Kotlin means less hassle. The Kotlin programming language offers an expressive syntax, a strongntuitive type system,nd great tooling support along with seamless interoperability with existing Java code, libraries, and frameworks. Kotlin cabe compiled to Java bytecode, so ycan use it everywhere Java is used, including Android. Anwitan effit ciler ana small andard libraryKotlin impos virally no runtime overhea
 Kotlin in Action tehes you to use thetl lane for produionualipplicat.tter expienced  depers,s examplrich bkبرو دoes further th most language books, covering interestintopiclbug Daral language syntax. Tutrare  Kn delopers you n tst a arl
